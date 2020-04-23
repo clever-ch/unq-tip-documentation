@@ -8,3 +8,6 @@ La aplicacion va a ser practica y agil, tanto para el usuario que desea subir un
 [SOS PETS Backend](https://github.com/clever-ch/unq-tip-backend/tree/master)
 
 [SOS PETS Frontend](https://github.com/clever-ch/unq-tip-frontend/tree/master)
+
+## Visión general del proyecto
+Aqui - [Visión Gral.](https://github.com/clever-ch/unq-tip-documentation/wiki/Vision-General-del-Proyecto)
